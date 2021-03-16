@@ -1,0 +1,24 @@
+body{
+	background-color:grey;
+}
+h1, h5  {
+	color: white;
+}
+
+a{
+	color: orange;
+}
+p{
+	background: #000;
+	color: red;
+	
+	
+}
+.secondary{
+	background: none;
+	color: yellow;
+}
+#special{
+	background: red;
+	color: white;
+}
